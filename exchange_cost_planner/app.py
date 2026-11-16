@@ -434,13 +434,23 @@ elif page == "City comparison":
     summary_rows = []
     category_tables = []
     placeholder_cities = []
+
     for name in chosen_cities:
-                city = load_city_current(city_name)
+        city = db.load_city(name)
+
         if is_placeholder(city):
             placeholder_cities.append(name)
-        result = estimate_exchange_costs(city, housing_type, lifestyle, months, trips_per_month=trips_per_month)
+
+        result = estimate_exchange_costs(
+            city,
+            housing_type,
+            lifestyle,
+            months,
+            trips_per_month=trips_per_month
+        )
 
         summary = {
+
             "city": name,
             "per_month_chf": result["monthly_total"],
             "one_time_chf": result["one_time_total"],
