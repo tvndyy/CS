@@ -435,7 +435,7 @@ elif page == "City comparison":
     category_tables = []
     placeholder_cities = []
     for name in chosen_cities:
-        city = load_city_current(name) ⁠
+                city = load_city_current(city_name)
         if is_placeholder(city):
             placeholder_cities.append(name)
         result = estimate_exchange_costs(city, housing_type, lifestyle, months, trips_per_month=trips_per_month)
