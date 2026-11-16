@@ -1,0 +1,314 @@
+city,housing_type,lifestyle,trips_per_month,monthly_cost_chf,source
+Sydney,Shared flat room,frugal,3,1550,simulated
+Paris,Student dormitory,moderate,1,1300,simulated
+Hong Kong,Own apartment,comfortable,0,2920,simulated
+Paris,Shared flat room,frugal,4,2020,simulated
+Rotterdam,Student dormitory,moderate,3,1680,simulated
+Singapore,Own apartment,moderate,2,3360,simulated
+Copenhagen,Shared flat room,frugal,1,1420,simulated
+Paris,Student dormitory,frugal,3,1440,simulated
+Lisbon,Student dormitory,comfortable,1,1190,simulated
+Vienna,Student dormitory,frugal,2,1430,simulated
+Austin,Shared flat room,comfortable,4,2380,simulated
+Vienna,Student dormitory,frugal,1,1420,simulated
+Tokyo,Student dormitory,moderate,2,1250,simulated
+Milan,Shared flat room,moderate,3,2160,simulated
+Paris,Shared flat room,frugal,3,1580,simulated
+London,Student dormitory,moderate,2,2100,simulated
+Copenhagen,Own apartment,comfortable,2,3760,simulated
+Milan,Student dormitory,moderate,2,2260,simulated
+Sydney,Student dormitory,frugal,3,1980,simulated
+Austin,Student dormitory,comfortable,0,1740,simulated
+Vancouver,Student dormitory,comfortable,1,1750,simulated
+Lisbon,Own apartment,moderate,0,1380,simulated
+Hong Kong,Own apartment,comfortable,1,3660,simulated
+Singapore,Student dormitory,frugal,3,1270,simulated
+Austin,Own apartment,comfortable,3,2750,simulated
+Paris,Own apartment,frugal,0,2220,simulated
+Austin,Shared flat room,frugal,3,1720,simulated
+Paris,Shared flat room,moderate,0,1760,simulated
+Austin,Student dormitory,moderate,3,1770,simulated
+London,Own apartment,frugal,4,3280,simulated
+Stockholm,Own apartment,frugal,3,2200,simulated
+Paris,Student dormitory,frugal,2,1410,simulated
+Austin,Shared flat room,comfortable,2,1890,simulated
+Vienna,Shared flat room,comfortable,3,1790,simulated
+Copenhagen,Own apartment,moderate,0,1940,simulated
+London,Own apartment,moderate,3,3550,simulated
+Milan,Student dormitory,moderate,1,1780,simulated
+Sydney,Shared flat room,moderate,1,2010,simulated
+Lisbon,Shared flat room,comfortable,2,1360,simulated
+Austin,Student dormitory,comfortable,3,2240,simulated
+Tokyo,Student dormitory,comfortable,1,1540,simulated
+Paris,Shared flat room,moderate,3,2200,simulated
+Stockholm,Student dormitory,moderate,2,1710,simulated
+Vancouver,Own apartment,moderate,3,2890,simulated
+Milan,Shared flat room,moderate,3,1700,simulated
+Austin,Own apartment,comfortable,1,2910,simulated
+Singapore,Student dormitory,moderate,2,1880,simulated
+Milan,Student dormitory,moderate,4,1930,simulated
+Milan,Shared flat room,moderate,1,1370,simulated
+Tokyo,Shared flat room,frugal,4,1550,simulated
+Milan,Student dormitory,frugal,1,1680,simulated
+Copenhagen,Shared flat room,frugal,3,1570,simulated
+Paris,Shared flat room,moderate,3,1740,simulated
+Rotterdam,Student dormitory,frugal,1,1110,simulated
+Stockholm,Student dormitory,frugal,0,1140,simulated
+London,Shared flat room,moderate,0,2540,simulated
+Barcelona,Shared flat room,frugal,1,1120,simulated
+Hong Kong,Own apartment,frugal,4,2820,simulated
+Vancouver,Own apartment,frugal,0,2340,simulated
+Vancouver,Shared flat room,moderate,3,1810,simulated
+Stockholm,Own apartment,frugal,4,2280,simulated
+Sydney,Student dormitory,moderate,3,2230,simulated
+Stockholm,Student dormitory,moderate,1,1250,simulated
+Austin,Student dormitory,frugal,2,1720,simulated
+Vienna,Student dormitory,frugal,2,1470,simulated
+London,Shared flat room,comfortable,1,3160,simulated
+Sydney,Own apartment,comfortable,3,3140,simulated
+Vancouver,Own apartment,moderate,3,2890,simulated
+Vienna,Shared flat room,moderate,1,1370,simulated
+Stockholm,Own apartment,frugal,1,1820,simulated
+Stockholm,Shared flat room,comfortable,2,1990,simulated
+Barcelona,Shared flat room,moderate,4,2060,simulated
+Tokyo,Shared flat room,frugal,2,1560,simulated
+Paris,Student dormitory,comfortable,2,1890,simulated
+Lisbon,Shared flat room,moderate,2,1670,simulated
+Singapore,Shared flat room,frugal,1,1580,simulated
+London,Student dormitory,moderate,2,1580,simulated
+Vienna,Shared flat room,comfortable,3,1750,simulated
+Barcelona,Student dormitory,moderate,3,1370,simulated
+Sydney,Own apartment,frugal,2,2560,simulated
+Barcelona,Shared flat room,frugal,2,1670,simulated
+Sydney,Shared flat room,frugal,1,1460,simulated
+Milan,Shared flat room,frugal,0,1420,simulated
+Stockholm,Student dormitory,comfortable,3,2210,simulated
+Milan,Own apartment,moderate,4,2120,simulated
+Milan,Own apartment,comfortable,2,2040,simulated
+Lisbon,Own apartment,frugal,3,2100,simulated
+Tokyo,Student dormitory,frugal,0,890,simulated
+Milan,Student dormitory,frugal,0,1570,simulated
+Vienna,Own apartment,comfortable,3,2550,simulated
+London,Student dormitory,frugal,0,1130,simulated
+Austin,Shared flat room,comfortable,2,2260,simulated
+Vancouver,Shared flat room,moderate,0,1330,simulated
+Copenhagen,Own apartment,comfortable,4,3440,simulated
+Rotterdam,Own apartment,frugal,2,2030,simulated
+Rotterdam,Student dormitory,moderate,1,1310,simulated
+Stockholm,Student dormitory,frugal,3,1700,simulated
+Milan,Shared flat room,frugal,0,1380,simulated
+London,Own apartment,comfortable,3,3950,simulated
+Vancouver,Shared flat room,comfortable,2,1860,simulated
+Rotterdam,Shared flat room,frugal,2,1490,simulated
+Vancouver,Student dormitory,frugal,0,1140,simulated
+Sydney,Own apartment,comfortable,2,3240,simulated
+Singapore,Own apartment,frugal,0,2770,simulated
+Tokyo,Student dormitory,moderate,0,900,simulated
+Barcelona,Own apartment,comfortable,4,2570,simulated
+Austin,Own apartment,comfortable,2,2200,simulated
+Barcelona,Shared flat room,comfortable,2,1750,simulated
+Barcelona,Own apartment,moderate,1,1830,simulated
+Rotterdam,Student dormitory,moderate,3,1470,simulated
+Sydney,Student dormitory,comfortable,4,2260,simulated
+Sydney,Own apartment,comfortable,4,3560,simulated
+Lisbon,Own apartment,comfortable,0,1730,simulated
+Stockholm,Own apartment,comfortable,2,2400,simulated
+London,Shared flat room,moderate,0,2410,simulated
+Tokyo,Shared flat room,comfortable,3,1680,simulated
+Singapore,Student dormitory,moderate,0,1120,simulated
+Singapore,Shared flat room,moderate,2,1920,simulated
+Rotterdam,Student dormitory,moderate,3,1730,simulated
+Rotterdam,Own apartment,comfortable,3,2790,simulated
+London,Student dormitory,moderate,4,2510,simulated
+Rotterdam,Own apartment,moderate,1,2340,simulated
+Rotterdam,Shared flat room,comfortable,4,2700,simulated
+Stockholm,Own apartment,comfortable,0,2340,simulated
+Stockholm,Student dormitory,comfortable,1,1560,simulated
+Copenhagen,Shared flat room,frugal,2,1860,simulated
+Paris,Shared flat room,frugal,2,1700,simulated
+Singapore,Shared flat room,frugal,4,1940,simulated
+London,Shared flat room,moderate,3,3340,simulated
+Rotterdam,Student dormitory,comfortable,1,1600,simulated
+Rotterdam,Own apartment,frugal,1,1960,simulated
+London,Student dormitory,comfortable,3,1770,simulated
+Singapore,Shared flat room,moderate,1,1930,simulated
+London,Shared flat room,moderate,3,2920,simulated
+Hong Kong,Own apartment,moderate,0,2020,simulated
+Sydney,Shared flat room,moderate,4,2520,simulated
+Barcelona,Own apartment,moderate,1,1740,simulated
+Vancouver,Own apartment,comfortable,2,2430,simulated
+Barcelona,Student dormitory,moderate,0,1130,simulated
+Sydney,Student dormitory,frugal,4,2030,simulated
+Vancouver,Shared flat room,moderate,1,1520,simulated
+Milan,Own apartment,frugal,4,2850,simulated
+Hong Kong,Shared flat room,frugal,0,1850,simulated
+Lisbon,Shared flat room,frugal,0,1310,simulated
+Milan,Shared flat room,moderate,2,1960,simulated
+Lisbon,Own apartment,moderate,2,2080,simulated
+Paris,Student dormitory,comfortable,1,1450,simulated
+Milan,Own apartment,comfortable,1,2470,simulated
+Milan,Student dormitory,moderate,4,2380,simulated
+Vancouver,Shared flat room,frugal,3,2100,simulated
+Vienna,Shared flat room,moderate,4,1400,simulated
+London,Shared flat room,comfortable,0,3240,simulated
+Lisbon,Student dormitory,comfortable,4,1710,simulated
+Lisbon,Shared flat room,comfortable,0,1460,simulated
+Stockholm,Own apartment,moderate,0,2000,simulated
+Vancouver,Student dormitory,moderate,3,1650,simulated
+Hong Kong,Own apartment,comfortable,1,2560,simulated
+Copenhagen,Own apartment,comfortable,4,3110,simulated
+Vienna,Own apartment,frugal,1,1680,simulated
+Paris,Shared flat room,comfortable,2,2060,simulated
+Milan,Own apartment,comfortable,0,1530,simulated
+Singapore,Own apartment,frugal,0,3030,simulated
+London,Student dormitory,frugal,3,2130,simulated
+Austin,Own apartment,frugal,3,2550,simulated
+Stockholm,Student dormitory,moderate,0,1310,simulated
+Lisbon,Own apartment,comfortable,1,2000,simulated
+Austin,Shared flat room,frugal,0,1480,simulated
+Barcelona,Student dormitory,frugal,0,820,simulated
+Rotterdam,Own apartment,frugal,2,1730,simulated
+Paris,Own apartment,frugal,1,2210,simulated
+Tokyo,Own apartment,comfortable,2,1970,simulated
+Vancouver,Student dormitory,moderate,0,1770,simulated
+Sydney,Own apartment,moderate,4,2690,simulated
+Stockholm,Student dormitory,comfortable,3,2280,simulated
+Barcelona,Own apartment,frugal,1,1890,simulated
+Paris,Own apartment,moderate,4,2520,simulated
+Hong Kong,Own apartment,frugal,3,3230,simulated
+Stockholm,Student dormitory,comfortable,0,1610,simulated
+Rotterdam,Student dormitory,moderate,2,1660,simulated
+Paris,Own apartment,moderate,0,2190,simulated
+Copenhagen,Student dormitory,frugal,0,1220,simulated
+Austin,Student dormitory,moderate,4,2080,simulated
+Milan,Shared flat room,frugal,2,1280,simulated
+Paris,Student dormitory,comfortable,4,2180,simulated
+Barcelona,Shared flat room,comfortable,2,1790,simulated
+Stockholm,Own apartment,moderate,1,1780,simulated
+Vienna,Own apartment,comfortable,2,2620,simulated
+Paris,Own apartment,comfortable,3,3200,simulated
+Stockholm,Own apartment,frugal,3,1740,simulated
+Tokyo,Student dormitory,moderate,2,1290,simulated
+London,Shared flat room,frugal,2,2170,simulated
+Austin,Shared flat room,moderate,3,1780,simulated
+Vienna,Shared flat room,comfortable,0,1930,simulated
+Copenhagen,Student dormitory,frugal,2,1780,simulated
+London,Own apartment,frugal,1,3100,simulated
+Vancouver,Student dormitory,frugal,4,2070,simulated
+Austin,Shared flat room,comfortable,0,1870,simulated
+Singapore,Student dormitory,frugal,4,1380,simulated
+Tokyo,Student dormitory,frugal,3,1360,simulated
+Sydney,Student dormitory,frugal,4,1890,simulated
+Lisbon,Own apartment,frugal,1,1440,simulated
+Stockholm,Student dormitory,frugal,4,1240,simulated
+Singapore,Own apartment,moderate,3,2940,simulated
+London,Student dormitory,frugal,2,1590,simulated
+Barcelona,Shared flat room,comfortable,0,1660,simulated
+Rotterdam,Student dormitory,moderate,3,1920,simulated
+Copenhagen,Shared flat room,comfortable,3,2580,simulated
+Tokyo,Student dormitory,moderate,1,1210,simulated
+Vancouver,Own apartment,frugal,3,2740,simulated
+Lisbon,Own apartment,moderate,3,1970,simulated
+London,Shared flat room,moderate,1,2310,simulated
+Hong Kong,Student dormitory,frugal,1,1140,simulated
+Vienna,Shared flat room,frugal,2,1420,simulated
+Hong Kong,Student dormitory,comfortable,3,1840,simulated
+Paris,Own apartment,moderate,4,2740,simulated
+Sydney,Student dormitory,moderate,4,2360,simulated
+Vancouver,Own apartment,comfortable,4,3810,simulated
+Copenhagen,Own apartment,comfortable,2,2610,simulated
+Singapore,Student dormitory,frugal,1,1290,simulated
+Sydney,Shared flat room,moderate,1,1940,simulated
+London,Own apartment,frugal,1,2520,simulated
+Copenhagen,Student dormitory,comfortable,1,2140,simulated
+Lisbon,Student dormitory,moderate,1,1040,simulated
+Austin,Shared flat room,moderate,1,1150,simulated
+Tokyo,Own apartment,moderate,2,2200,simulated
+Tokyo,Own apartment,moderate,4,2520,simulated
+Hong Kong,Student dormitory,moderate,4,1540,simulated
+Vienna,Student dormitory,moderate,3,1930,simulated
+Rotterdam,Own apartment,moderate,4,2350,simulated
+Hong Kong,Student dormitory,comfortable,3,2000,simulated
+Rotterdam,Student dormitory,comfortable,0,1730,simulated
+Sydney,Student dormitory,comfortable,1,1990,simulated
+Vancouver,Student dormitory,comfortable,2,2110,simulated
+Lisbon,Student dormitory,comfortable,0,1440,simulated
+Paris,Shared flat room,comfortable,4,2480,simulated
+Paris,Student dormitory,comfortable,3,2050,simulated
+Sydney,Own apartment,moderate,0,3080,simulated
+London,Student dormitory,frugal,4,1490,simulated
+Copenhagen,Own apartment,comfortable,4,3390,simulated
+Lisbon,Own apartment,frugal,3,1850,simulated
+Tokyo,Student dormitory,frugal,3,1000,simulated
+Rotterdam,Shared flat room,comfortable,2,2030,simulated
+Austin,Own apartment,moderate,4,2700,simulated
+Copenhagen,Own apartment,frugal,1,2560,simulated
+Copenhagen,Shared flat room,moderate,3,1920,simulated
+Stockholm,Own apartment,comfortable,0,2330,simulated
+Lisbon,Own apartment,comfortable,3,2350,simulated
+Tokyo,Own apartment,comfortable,1,2340,simulated
+Austin,Shared flat room,comfortable,3,2960,simulated
+Milan,Own apartment,moderate,3,2240,simulated
+Copenhagen,Own apartment,frugal,2,2320,simulated
+London,Own apartment,moderate,2,2170,simulated
+Lisbon,Own apartment,moderate,0,1770,simulated
+Copenhagen,Own apartment,frugal,3,2150,simulated
+London,Student dormitory,frugal,1,1720,simulated
+Sydney,Own apartment,comfortable,2,3230,simulated
+Vienna,Own apartment,moderate,3,1820,simulated
+Barcelona,Own apartment,comfortable,2,2330,simulated
+Vienna,Own apartment,frugal,4,2430,simulated
+Copenhagen,Shared flat room,moderate,2,1740,simulated
+Singapore,Student dormitory,moderate,2,1320,simulated
+Tokyo,Own apartment,moderate,3,2170,simulated
+London,Own apartment,frugal,1,2830,simulated
+Stockholm,Own apartment,frugal,3,2390,simulated
+Sydney,Student dormitory,frugal,0,1170,simulated
+Sydney,Own apartment,comfortable,4,3260,simulated
+Vancouver,Own apartment,moderate,1,2110,simulated
+Copenhagen,Own apartment,frugal,1,2170,simulated
+Barcelona,Shared flat room,comfortable,3,1810,simulated
+Copenhagen,Shared flat room,comfortable,4,2930,simulated
+Paris,Own apartment,moderate,0,2100,simulated
+Rotterdam,Shared flat room,frugal,2,1540,simulated
+London,Student dormitory,comfortable,4,2850,simulated
+Barcelona,Own apartment,frugal,2,1810,simulated
+Tokyo,Shared flat room,moderate,0,1240,simulated
+Sydney,Own apartment,frugal,0,2280,simulated
+London,Student dormitory,comfortable,2,2070,simulated
+Milan,Shared flat room,comfortable,0,1890,simulated
+Copenhagen,Own apartment,frugal,2,2280,simulated
+Singapore,Own apartment,frugal,0,2210,simulated
+Lisbon,Own apartment,moderate,2,1890,simulated
+Austin,Student dormitory,comfortable,2,2060,simulated
+Copenhagen,Own apartment,moderate,1,2330,simulated
+Copenhagen,Student dormitory,comfortable,3,2190,simulated
+Stockholm,Student dormitory,frugal,3,1500,simulated
+Singapore,Own apartment,comfortable,0,3020,simulated
+Vancouver,Student dormitory,frugal,3,1190,simulated
+Lisbon,Student dormitory,comfortable,0,1090,simulated
+Sydney,Student dormitory,frugal,0,1340,simulated
+London,Shared flat room,frugal,2,2570,simulated
+Copenhagen,Own apartment,comfortable,4,3320,simulated
+Sydney,Shared flat room,comfortable,1,1960,simulated
+Sydney,Student dormitory,comfortable,3,2150,simulated
+Vienna,Student dormitory,frugal,3,1530,simulated
+Lisbon,Own apartment,comfortable,3,2460,simulated
+Tokyo,Own apartment,moderate,3,2170,simulated
+Vienna,Own apartment,frugal,3,2120,simulated
+Austin,Student dormitory,moderate,1,1270,simulated
+Paris,Own apartment,moderate,0,2320,simulated
+Tokyo,Student dormitory,moderate,4,1650,simulated
+Copenhagen,Student dormitory,moderate,1,2250,experience report
+Rotterdam,Own apartment,moderate,1,1850,experience report
+Rotterdam,Own apartment,moderate,1,1070,experience report
+Barcelona,Shared flat room,moderate,0,1110,experience report
+Paris,Student dormitory,moderate,1,1390,experience report
+Paris,Student dormitory,moderate,1,1670,experience report
+Milan,Student dormitory,moderate,1,1530,experience report
+London,Shared flat room,moderate,1,2990,experience report
+Singapore,Shared flat room,moderate,0,1870,experience report
+Hong Kong,Student dormitory,moderate,1,1750,experience report
+Tokyo,Own apartment,moderate,0,2000,experience report
+Sydney,Shared flat room,moderate,1,1370,experience report
+Austin,Student dormitory,moderate,1,1890,experience report
